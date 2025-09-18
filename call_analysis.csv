@@ -1,0 +1,21 @@
+Transcript,Summary,Sentiment
+"Customer: Hi, I recently ordered a laptop from your website, and I noticed it hasn’t shipped yet. Can you tell me the status?
+    Agent: Hello! Thank you for reaching out. Let me check the status of your order. Could you please provide me with your order number?
+    Customer: Sure, it’s 123456789.
+    Agent: Thank you. I’m looking into it now. Your order was received on September 10th, and it’s currently being processed. The estimated shipping date is September 22nd.
+    Customer: Okay, thanks for the update. Will I get a tracking number once it ships?
+    Agent: Yes, once your order ships, you will receive an email with the tracking details.
+    Customer: Alright, that’s clear. Thanks for the information.
+    Agent: You’re welcome. If you have any other questions, feel free to ask.
+    Customer: That’s all for now. Have a good day.
+    Agent: You too. Thank you for contacting us.","The customer inquired about the status of their laptop order, which was confirmed to be processing with an estimated shipping date of September 22nd. The agent assured the customer that a tracking number would be emailed once the order ships. The conversation ended with the customer satisfied and thanking the agent for the information.",Neutral
+"Customer: Hi, I recently ordered a laptop from your website, and I noticed it hasn’t shipped yet. Can you tell me the status?
+    Agent: Hello! Thank you for reaching out. Let me check the status of your order. Could you please provide me with your order number?
+    Customer: Sure, it’s 123456789.
+    Agent: Thank you. I’m looking into it now. Your order was received on September 10th, and it’s currently being processed. The estimated shipping date is September 22nd.
+    Customer: Okay, thanks for the update. Will I get a tracking number once it ships?
+    Agent: Yes, once your order ships, you will receive an email with the tracking details.
+    Customer: Alright, that’s clear. Thanks for the information.
+    Agent: You’re welcome. If you have any other questions, feel free to ask.
+    Customer: That’s all for now. Have a good day.
+    Agent: You too. Thank you for contacting us.","The customer inquired about the status of their laptop order and provided the order number (123456789). The agent confirmed the order was received on September 10th, is being processed, and has an estimated shipping date of September 22nd. The customer also asked about tracking details, and the agent assured them a tracking number would be emailed once the order ships.",Neutral
